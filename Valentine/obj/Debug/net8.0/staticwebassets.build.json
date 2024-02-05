@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "OF0cEsx5KzvfkpBAc5fy8+8e4DCmt/5TxpFhHwgtMvY=",
+  "Source": "Valentine",
+  "BasePath": "_content/Valentine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Valentine\\wwwroot",
+      "Source": "Valentine",
+      "ContentRoot": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\wwwroot\\",
+      "BasePath": "_content/Valentine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Valentine.styles.css",
+      "SourceId": "Valentine",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Valentine",
+      "RelativePath": "Valentine.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Valentine.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Valentine.bundle.scp.css",
+      "SourceId": "Valentine",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Valentine",
+      "RelativePath": "Valentine.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Valentine.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\wwwroot\\app.css",
+      "SourceId": "Valentine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\x_gtheodorou\\source\\repos\\Demos\\Valentine\\Valentine\\wwwroot\\",
+      "BasePath": "_content/Valentine",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
